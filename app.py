@@ -1,4 +1,4 @@
-streamlit run app.py
+import streamlit as st
 
 # -*- coding: utf-8 -*-
 # ============================================================================
